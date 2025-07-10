@@ -1,0 +1,19 @@
+# 🧠 Mô hình AI & TensorFlow
+tensorflow==2.12.0
+numpy==1.23.5
+
+# 📊 Phân tích và trực quan hóa
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# 📸 Xử lý ảnh
+Pillow==9.4.0
+opencv-python==4.5.5.64
+
+# 📄 Tạo báo cáo PDF
+fpdf2==2.7.8
+
+# 🌐 Ứng dụng web
+streamlit==1.22.0
