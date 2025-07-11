@@ -586,9 +586,8 @@ def main():
 <div style="text-align: center; padding: 2rem; background: #f8f9fa; border-radius: 10px; margin-top: 2rem;">
     <h4>📬 Liên hệ</h4>
     <p>Nếu bạn có thắc mắc, góp ý hoặc muốn hợp tác, vui lòng liên hệ:</p>
-    <p>📧 Email: <a href="mailto:lienhe@phanloairac.vn">lienhe@phanloairac.vn</a></p>
-    <p>🌐 Website: <a href="https://phanloairac.vn" target="_blank">phanloairac.vn</a></p>
-    <p>📞 Điện thoại: 0123 456 789</p>
+    <p>📧 Email: <a href="mailto:fftt0519@gmail.com">fftt0519@gmail.com</a></p>
+    <p>📞 Điện thoại: 0339336571</p>
 </div>
 """, unsafe_allow_html=True)
 
